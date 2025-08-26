@@ -2,12 +2,12 @@
 
 I’m building my own path as a solopreneur in Data & Analytics, turning raw information into clarity and strategy.
 My background in Systems Analysis and Development, plus focused studies in Data Science, BI, and Machine Learning, gave me the tools.
-But what moves me is something maior: crafting data apps that feel alive and solve real problems for businesses.
+But what moves me is something bigger: crafting data apps that feel alive and solve real problems for businesses.
 
 ## 🚀 What I Do
 
 I create modern Data Apps that unify, visualize, and narrate data in a way that businesses can act on.
-My stack is Python, Streamlit, Pandas, Numpy, Scikit-learn, NLP, Plotly, and Apache ECharts — but beyond tools, what I deliver is actionable insight.
+My stack: • Python • Streamlit • Pandas • Numpy • Scikit-learn • NLP • Plotly • Apache ECharts — but beyond tools, what I deliver is actionable insight.
 
 I see dashboards not as “pretty charts”, but as decision engines: spaces where metrics, context, and foresight meet.
 
