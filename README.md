@@ -1,24 +1,34 @@
 # 👋 Hi, I'm Bruno Mendes
 
-I’m building my own path as a solopreneur in Data & Analytics, turning raw information into clarity and strategy.
-My background in Systems Analysis and Development, plus focused studies in Data Science, BI, and Machine Learning, gave me the tools.
-But what moves me is something bigger: crafting data apps that feel alive and solve real problems for businesses.
+I’m not just building dashboards — I’m building decision engines.
+Data for me isn’t about pretty visuals or vanity metrics. It’s about clarity, foresight, and momentum for those ready to act.
 
-## 🚀 What I Do
+With a background in Systems Analysis & Development and focused training in Data Science, BI, and Machine Learning, I’ve shaped my own path as a solopreneur in Data & Analytics.
 
-I create modern Data Apps that unify, visualize, and narrate data in a way that businesses can act on.
-My stack: • Python • Streamlit • Pandas • Numpy • Scikit-learn • NLP • Plotly • Apache ECharts — but beyond tools, what I deliver is actionable insight.
+But more than code and pipelines, what drives me is turning the noise of raw data into strategy that moves the needle.
 
-I see dashboards not as “pretty charts”, but as decision engines: spaces where metrics, context, and foresight meet.
+## 🚀 What I Build
+
+Modern Data Apps that:
+
+- Unify messy data sources into one narrative
+
+- Visualize complexity without losing clarity
+
+- Predict, warn, and reveal what really matters
+
+Core Stack: Python · Streamlit · Pandas · Numpy · Scikit-learn · NLP · Plotly · Apache ECharts
+
+💡 Tech is the medium. Insight is the product.
 
 ### 🏆 Project Highlights
 
-- **[InsightX E-commerce Dashboard](https://github.com/mnds-brn001/insightx-ecommerce-dashboard)**
+- **[InsightX • E-commerce Analytics](https://github.com/mnds-brn001/insightx-ecommerce-dashboard)**
   - Specialized analytics platform for e-commerce.
   - Transforms multiple raw sources into a clear business view: CAC, LTV, churn, product performance, and predictive insights.
   - Visualizations, key metrics, and actionable insights.
 
-- **[Supply Chain Dashboard](https://github.com/mnds-brn001/supply-chain-dashboard)**
+- **[Supply Chain Analytics](https://github.com/mnds-brn001/supply-chain-dashboard)**
   - Academic dashboard focused on logistics and supply chain analysis.
 
 ## 🌱 What’s Next
@@ -28,7 +38,8 @@ The goal? To expand across key economic areas while keeping agility and clarity 
 
 ## 🧘‍♂️ Hobbies
 
-Meditation, breathwork, writing, film, music, and movement — all part of the same search: presence, balance, and creativity.
+Meditation · Breathwork · Writing · Film · Music · Movement.
+Different languages, same search: presence, balance, and creativity.
 
 ## 🤝 Connect With Me
 
@@ -38,4 +49,7 @@ Meditation, breathwork, writing, film, music, and movement — all part of the s
 
 ---
 
-> **Motto:** Break the mold. Design with clarity. Deliver with soul.
+> **Motto:** 
+Break the mold. 
+Design with clarity. 
+Deliver with soul.
