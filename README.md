@@ -23,7 +23,7 @@ Core Stack: Python · Streamlit · Pandas · Numpy · Scikit-learn · NLP · Plo
 
 ### 🏆 Project Highlights
 
-- **[InsightX • E-commerce Analytics](https://github.com/mnds-brn001/insightx-ecommerce-dashboard)**
+- **[Insight Expert • E-commerce Analytics](https://github.com/mnds-brn001/insightx-ecommerce-dashboard)**
   - Specialized analytics platform for e-commerce.
   - Transforms multiple raw sources into a clear business view: CAC, LTV, churn, product performance, and predictive insights.
   - Visualizations, key metrics, and actionable insights.
