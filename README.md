@@ -1,23 +1,24 @@
 # 👋 Hi, I'm Bruno Mendes
 
 I’m not just building dashboards — I’m building decision engines.
-Data for me isn’t about pretty visuals or vanity metrics. It’s about clarity, foresight, and momentum for those ready to act.
+Data for me isn’t about pretty visuals or vanity metrics. It’s about **clarity, foresight, and capital allocation for people who need to decide under pressure.**
 
-With a background in Systems Analysis & Development and focused training in Data Science, BI, and Machine Learning, I’ve shaped my own path as a solopreneur in Data & Analytics.
+My journey didn’t start in analytics labs or consulting decks.
+It started inside real operations — dealing with inventory, logistics constraints, performance pressure, trade-offs, and the consequences of decisions made with partial information.
 
-But more than code and pipelines, what drives me is turning the noise of raw data into strategy that moves the needle.
+That operational foundation is what shapes everything I build today.
 
 ## 🧭 Background & Journey
 
-I have a background in Systems Analysis & Development, with focused training in Data Science, Business Intelligence, and Machine Learning.
+I have a background in **Systems Analysis & Development**, with focused training in **Data Science, Business Intelligence, and Machine Learning.**
 
-Before transitioning fully into analytics, I worked in operational and analytical roles, close to supply chain, planning, and performance monitoring. Being embedded in operations taught me something most dashboards ignore:
+Before transitioning fully into analytics, I worked in **operational and analytical roles**, close to supply chain, planning, and performance monitoring. Being embedded in operations taught me something most dashboards ignore:
 
 > Decisions don’t fail because data is missing — they fail because data is fragmented, late, or misaligned with how the business actually works.
 
 That experience pushed me to design analytics not as reports, but as **decision systems** — tools that help people *reallocate attention, time, and money* with confidence.
 
-Today, I work as a **solopreneur in Data & Analytics**, building focused, high-leverage data products where insight comes before scale.
+Today, I work as a **solopreneur in Data & Analytics**, building focused, high-leverage data products where **insight comes before scale.**
 
 ## 🚀 What I Build
 
