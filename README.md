@@ -1,17 +1,47 @@
 # 👋 Hi, I'm Bruno Mendes
 
-### **Data Professional | Analytics Engineer | Decision Intelligence**
+### **Building Decision Layers for Retail & Logistics**
 
-I bridge the gap between complex operations and high-impact data products. 
-My goal is to transform fragmented data into **decision engines** that optimize capital allocation and operational efficiency.
+I transform fragmented data into **actionable intelligence** that reduces decision friction.
+
+Most dashboards show metrics. Mine **prescribe actions**.
 
 ---
 
-## 🧭 The Philosophy
-A dashboard that shows 'Revenue by Category' is data. A dashboard that shows 'These 15 categories are bleeding capital—liquidate them' is a signal.
-Having spent years inside **supply chain and logistics operations**, I learned that data projects don't fail because of a lack of math, but because of a lack of **context**. 
+## 🔥 The Problem
+Retail and logistics operations generate massive amounts of data, but **decision-makers are drowning in metrics** without clear actions.
 
-I build data apps that don't just "show" metrics—they **prescribe action**. I focus on the **Signal-to-Noise Ratio**: if a metric doesn't trigger a decision, it shouldn't be on the screen.
+**Common symptoms:**
+- Dashboards show "what happened" but not "what to do"
+- Teams spend hours analyzing data but can't prioritize actions
+- Capital gets misallocated because there's no clear framework
+- Dead stock accumulates because there's no automated flagging
+
+**My approach:** Build decision engines that reduce cognitive load. Every metric on screen triggers a specific action. If it doesn't, it shouldn't be there.
+
+---
+
+## 🚀 Products & Case Studies
+
+### 📊 [Insight Expert • E-commerce Intelligence Platform](https://github.com/mnds-brn001/insightx-ecommerce-dashboard)
+**Status:** In active development | **Target:** Retail E-commerce
+
+A BCG-based portfolio analysis tool that classifies product categories into strategic quadrants and prescribes actions:
+- ⭐ **Estrela Digital:** Invest heavily (38 categories, R$ 43k in stock)
+- 🐄 **Vaca Leiteira:** Optimize margin, harvest profits (29 categories)
+- 🧪 **Interrogação:** Test strategies before scaling (51 categories)
+- ✂️ **Abacaxi:** Liquidate and discontinue (15 categories, R$ 1.5k immobilized)
+
+**Key insight:** Identified R$ 1,566 in dead stock that costs more in management time than it's worth—actionable intelligence, not just data.
+
+**Tech:** Python, Streamlit, DuckDB, Plotly | **Architecture:** Modular, fast local processing
+
+---
+
+### 📦 [Supply Chain Analytics](https://github.com/mnds-brn001/supply-chain-dashboard)
+Operational dashboard focused on bottleneck visibility and demand forecasting.
+- Implementing inventory dynamics and safety stock calculations.
+- Focused on reducing "Cognitive Load" for logistics managers under pressure.
 
 ---
 
@@ -26,39 +56,24 @@ I build data apps that don't just "show" metrics—they **prescribe action**. I 
 | **DevOps & Infra** | Docker · Git Flow | Reproducibility, isolation, and CI/CD consistency |
 
 ---
+## 🎯 Who This Is For
 
-## 🏆 Featured Projects
+**I work with:**
+- E-commerce retailers struggling with inventory decisions
+- Logistics operations needing bottleneck visibility
+- Teams drowning in data but starving for insights
 
-### 📊 [Insight Expert • E-commerce Intelligence](https://github.com/mnds-brn001/insightx-ecommerce-dashboard)
-A specialized analytics platform designed for high-volume e-commerce.
-- **Problem:** Siloed data between ERPs, Marketplaces, and Google Ads.
-- **Technical Solution:** Built a modular Python-based engine that unifies disparate sources into a hierarchical business view.
-- **Key Features:** Churn prediction, LTV/CAC mapping, and BCG-based portfolio classification that prescribes actions per category: Invest, Harvest, Test, or Liquidate.
-- **Architecture:** Streamlit for UI, DuckDB for fast local processing.
+**I don't work with:**
+- Companies that want "dashboards for the sake of dashboards"
+- Teams that aren't ready to act on data-driven recommendations
+- Projects where "showing metrics" is the end goal
 
-### 📦 [Supply Chain Analytics](https://github.com/mnds-brn001/supply-chain-dashboard)
-Operational dashboard focused on bottleneck visibility and demand forecasting.
-- Implementing inventory dynamics and safety stock calculations.
-- Focused on reducing "Cognitive Load" for logistics managers under pressure.
-
----
-
-## 📈 Professional Path
-I am currently focused on **Analytics Engineering** and **Data Product Development**. I thrive in environments where:
-- Data is treated as a product, not a service.
-- There is a high bar for code quality and business impact.
-- Collaboration across Product, Tech, and Ops is the standard.
-
-*💡 Tech is the medium. Insight is the result.*
+**My promise:** If a metric doesn't trigger a decision, it won't be on your screen.
 
 ---
-
-## 🧘‍♂️ Beyond the Code
-When I'm not optimizing pipelines, I'm exploring **presence and creativity** through Meditation, Writing, and Movement. I believe that a balanced mind produces cleaner code and sharper strategies.
-
 ## 🤝 Let's Collaborate
 - [LinkedIn](https://www.linkedin.com/in/brunomendesdeveloper/)
 - [Medium (Technical Articles)](https://medium.com/@brunomendessj)
 
 ---
-> **Motto:** Break the mold. Design with clarity. Deliver with soul.
+*When I'm not building decision engines, I explore presence through meditation and movement. A balanced mind produces cleaner code and sharper strategies.*
