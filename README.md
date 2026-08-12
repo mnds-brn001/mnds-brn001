@@ -1,83 +1,79 @@
 # 👋 Hi, I'm Bruno Mendes
 
-### **Building Decision Layers for Retail & Logistics**
+### **Senior Analytics & Data Governance Engineer · Decision Architect**
 
-I transform fragmented data into **prescriptive intelligence**. My focus is eliminating the "cognitive load" from e-commerce and supply chain operations.
+I eliminate cognitive load and financial leaks in high-volume retail and logistics operations by transforming fragmented datasets into **prescriptive, automated decision layers**. 
 
-Most dashboards show "what happened." Mine **prescribe what to do.**
-
----
-
-🚀 **Impact Highlights (Real-World Case Study)**
-Recently, I implemented the Insight Expert logic in a Cosmetics Distributor, achieving a **Turnaround in 31 days (Feb 3rd - Mar 6th):**
-
-• **Revenue Growth:** Accelerated monthly revenue from R$ 45k to R$ 71.3k (+58% increase).
-
-• **Operational Health:** Slashed cancellation rates from a historical 15-20% to a stable 5.9%.
-
-• **Inventory Intelligence:** Reindexed the store's algorithm by deepening stock in 50+ high-performance SKUs while liquidating "Abacaxis" (Dead Stock).
-
-• **Capital Efficiency:** Recovered **R$ 25k in suppressed demand** and prevented over **R$ 5k/month** in direct loss from operational friction.
+Most platforms display descriptive metrics (the rearview mirror). **Mine prescribe the next tactical move.**
 
 ---
 
-## 🚀 Products & Case Studies
+## ⚡ Core Philosophy: Data Platform Governance
 
-### 📊 [Insight Expert • E-commerce Intelligence Platform](https://github.com/mnds-brn001/insightx-ecommerce-dashboard)
-**Status:** Validated in Production | Target: High-Volume Retail E-commerce
+• **AI-Native Automation:** I leverage LLMs and programmatic validation (`pytest`, CI/CD) to scale data quality tracking, building automated monitors instead of manual checklists.
 
-A prescriptive portfolio analysis engine that uses a **Hybrid BCG Matrix and Time Series Forecasting** to classify inventory and automate decisions.
+• **Semantic Consistency:** I enforce single-metric-single-definition constraints across the entire pipeline—from production event tracking to executive dashboards—to kill data entropy and "two dashboards, two numbers" scenarios.
 
-• ⭐ **Digital Stars:** High-growth investment (Identified 38 categories driving 60% of growth).
-
-• 🐄 **Cash Cows:** Margin optimization and profit harvesting.
-
-• 🧪 **Question Marks:** Controlled testing for scaling potential.
-
-• ✂️ **Dogs (Abacaxi):** Automated flagging for liquidation to free up cash flow.
-
-Key Technical Achievement: Developed a Machine Learning Ensemble (XGBoost/LightGBM) to detect "Silent Stockouts" before they hit the algorithm, maintaining sales velocity.
-
-Tech Stack: Python, Streamlit, Supabase (PostgreSQL), DuckDB, Plotly.
+• **Latency vs. Throughput:** I audit logistics malhas by isolating mathematical *delay ownership* (HUB vs. Last-Mile), proving where capital and SLA are bleeding.
 
 ---
 
-### 📦 [Supply Chain Analytics & WMS Turnaround](https://github.com/mnds-brn001/supply-chain-dashboard)
-More than code, it's about Physical-to-Digital restructuring.
+## 🚀 Impact Highlights & Production Case Studies
 
-• **Case Study (VP Radiadores):** Reorganized a DC with +400 SKUs in 5 days, implementing ABC Curve layout and blind audit processes before system integration.
+### 📊 [Insight Expert · Prescriptive E-Commerce Intelligence Platform](https://github.com/mnds-brn001/insightx-ecommerce-dashboard)
+**Status:** Validated in Production | **Target:** High-Volume Retail & D2C Marketplaces
 
-• **Logic:** Focused on reducing "Cognitive Load" for logistics managers by highlighting bottlenecks instead of raw data.
+An automation engine that uses a **Hybrid BCG Matrix and Time Series Forecasting** to model portfolio health, optimize working capital, and automate procurement triggers.
+
+• **Turnaround Execution (31-Day Case Study):** Accelerated monthly revenue from R$ 45k to R$ 71.3k (+58%) and slashed order cancellation rates from 17.4% to a stable 5.9% by re-indexing stock in 50+ high-performance SKUs and liquidating dead inventory.
+
+• **Technical Achievement:** Engineered a Machine Learning Ensemble (XGBoost/LightGBM) to preemptively detect "Silent Stockouts" before they hit marketplace algorithms, preserving sales velocity.
+
+• **Tech Stack:** Python, Streamlit, Supabase (PostgreSQL), DuckDB, Plotly, Git/GitHub.
 
 ---
 
-## 🧰 Tech Stack & Expertise
+### 📦 [Anjun Box & Mesh Guard · Last-Mile Exception Engine](https://github.com/mnds-brn001/anjun-box-overview)
+**Status:** In Production | **Target:** International Logistics & Last-Mile Cross-Docking (SHEIN, Shopee, TikTok Shop)
 
-| Layer | Tools | Focus |
+A robust data pipeline designed to parse, normalize, and enrich high-entropy, 87-column bilingual (Chinese/PT) tracking logs, turning raw operational exports into actionable SLA alert queues.
+
+• **Automated Observability:** Implemented a CLI tool (`generate_lastmile_backlog.py`) that executes automated anomaly checks, instantly mapping SOP violations (e.g., fraudulent returns without the 3 mandatory delivery attempts) and routing errors.
+
+• **Data Contracts & Compliance:** Standardized Last-Mile thresholds and cutoff cycles for 20 regional distribution points, replacing operational guesswork with deterministic risk tiers (`CRITICAL`, `OVERDUE`).
+
+• **Tech Stack:** Python, Pandas, NumPy, XlsxWriter, PowerShell Automation.
+
+---
+
+## 🧰 Tech Stack & Data Stack
+
+| Layer | Tools | Operational Focus |
 |------|------|--------|
-| **Core Language** | Python (PEP8, OOP) | Scalable processing, modeling, and app logic |
-| **Data Engineering** | SQL · Polars · Pandas · DuckDB | High-performance wrangling and OLAP analysis |
-| **Machine Learning** | Scikit-learn · NLP | Predictive modeling and unstructured data insights |
-| **Front-end / UI** | Streamlit · Plotly · ECharts | Rapid prototyping of decision-centric Data Apps |
-| **DevOps & Infra** | Docker · Git Flow | Reproducibility, isolation, and CI/CD consistency |
+| **Core Architecture** | Python (OOP, Clean Code) · SQL | Enterprise automation, data parsing, and test-driven logic |
+| **Data Engine & Warehouse** | DuckDB · Postgres · Pandas · Polars | High-performance OLAP wrangling, ingestion, and schema tracking |
+| **Data Platform (Concepts)**| dbt · Redshift · BigQuery · Airflow | Semantic layer modeling, pipeline orchestration, and metrics defense |
+| **AI Tooling & Agents** | Claude Code · Cursor · Chat | Building AI-legible data warehouses and automated anomaly triage |
+| **Observability & UI** | Streamlit · Plotly · Git Flow · Pytest | Rapid deployment of decision-centric Data Apps and CI/CD pipelines |
 
 ---
-## 🎯 Who I Work With
-I am the bridge between the warehouse and the executive board:
 
-• **Retailers** who want to stop "guessing" what to buy and start following a data-driven ROI.
+## 🎯 Who I Build For
+I bridge the gap between complex engineering workflows, chaotic warehouse floors, and the executive board:
 
-• **Logistics Operations** drowning in "urgent" tasks but missing the strategic bottlenecks.
+• **On-Demand Marketplaces & D2C Brands** looking to enforce data trustworthiness and metric health across product, ops, and finance.
 
-• **Tech Teams** needing an Analytics Engineer who understands the "smell" of the physical operation.
+• **Logistics Operations** drowning in reactive "firefighting" that need automated observability to stop SLA decay.
 
+• **Engineering Teams** needing an Analytics/Governance Engineer who understands the real-world friction of physical supply chains.
 
-**My Promise:** If a metric doesn't trigger a decision, it won't be on your screen.
-
----
-## 🤝 Let's Collaborate
-- [LinkedIn](https://www.linkedin.com/in/brunomendesinsightexpert/)
-- [Medium (Technical Articles)](https://medium.com/@brunomendessj)
+> **The Promise:** If a metric doesn't trigger a business decision, it doesn't belong on the platform.
 
 ---
-*I believe that a balanced mind—through meditation and movement—produces cleaner code and sharper business strategies.*
+
+## 🤝 Connect & Collaborate
+- **LinkedIn:** [linkedin.com/in/brunomendesinsightexpert](https://www.linkedin.com/in/brunomendesinsightexpert/)
+- **Medium (Technical Deep Dives):** [medium.com/@brunomendessj](https://medium.com/@brunomendessj)
+
+---
+*I believe that an organized data stack reflects an organized mind. I use clean code to build clean operations.*
